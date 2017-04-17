@@ -1,0 +1,5 @@
+/Curso Federal/nbproject/private/
+/Curso Loiane/nbproject/private/
+/ProjetoCursoFederal/nbproject/private/
+/Curso Federal/ProjetoCursoFederal/nbproject/private/
+/Curso Federal/ProjetoCursoFederal/build/
